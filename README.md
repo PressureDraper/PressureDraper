@@ -13,7 +13,6 @@
 - 🎶 I love cats, videogames, take some cat naps || listen to and create my own music as a hobby
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - 🌱 I’m currently learning: **Vue.js** 
 - :trollface: Fun fact: **I swear i've never copy -> paste code from stackoverflow 👀**

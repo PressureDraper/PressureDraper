@@ -13,7 +13,7 @@
 - 🎓 Enthusiastic learner about any topic 
 - 📌 Guiding my interests through cloud computing, cybersecurity, AI and fullstack development 
 - 📁 Working in some projects to perform a portfolio
-- 🎶 I love cats, videogames, taking some cat naps || listening to and creating my<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> own music </a> as a hobby
+- 🎶 I love cats, videogames, nature, taking some cat naps, listening to and creating my <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> own music</a> as a hobby
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 

@@ -15,7 +15,7 @@
 - 📁 Working in some projects to perform a portfolio
 - 🎶 I love cats, videogames, nature, taking some cat naps, listening to and creating my <a href="https://www.youtube.com/@hideline_music" target="_blank" rel="noreferrer">own music</a> as a hobby
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - 🌱 I’m currently learning: <img width="auto" height="40" src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="java_logo" /> **+** <img width="auto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="spring_logo" />
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
@@ -55,6 +55,11 @@
 <a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/1024px-WampServer-logo.svg.png" alt="wamp" width="40" height="40"/></a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/trainer/assets/images/sonarqube-logo.png" alt="sonarqube" width="40" height="40"/></a>
+<br>
+<a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="react" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui material" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="vscode" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pressuredraper&show_icons=true&locale=en&layout=compact" alt="pressuredraper" /></p>

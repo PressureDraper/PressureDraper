@@ -17,7 +17,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-- 🌱 I’m currently learning: <img width="auto" height="40" src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" alt="java_logo" /> **+** <img width="auto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/2560px-Spring_Framework_Logo_2018.svg.png" alt="spring_logo" />
+- 🌱 I’m currently learning:
+  - <img width="auto" height="40" src="https://static-00.iconduck.com/assets.00/socket-io-icon-512x511-xjp7kzx6.png" alt="socket.io" /> **Socket.io**
+  - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
 <h3 align="left">🏆 Github Trophies:</h3>

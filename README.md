@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi! I'm Omar Sahib <img align="center" height="50" width="auto" src="https://borjagilra.com/wp-content/uploads/2022/09/giphy-1.gif" alt="wave"/></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pressuredraper&label=Profile%20views&color=0e75b6&style=flat" alt="pressuredraper" /> </p>
-<h3 align="center"><img align="center" height="30" width="40" src="https://emojis.wiki/emoji-pics/apple/mexico-apple.png" alt="mx"/> 24-year-old Fullstack Developer with a bachelor's degree in Computer Science from Xalapa, Veracruz <img align="center" height="30" width="40" src="https://emojis.wiki/emoji-pics/apple/mexico-apple.png" alt="mx"/></h3>
+<h3 align="center"><img align="center" height="30" width="40" src="https://emojis.wiki/emoji-pics/apple/mexico-apple.png" alt="mx"/> 24-year-old Computer Science graduate from Xalapa, Veracruz <img align="center" height="30" width="40" src="https://emojis.wiki/emoji-pics/apple/mexico-apple.png" alt="mx"/></h3>
 
 <p align="center">
   <img width="auto" height="300" src="https://i.pinimg.com/originals/e4/8a/ea/e48aeaac9f9688addda36cb41539f35a.gif" alt="laingif" />

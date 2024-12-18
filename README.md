@@ -63,6 +63,8 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui material" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="vscode" width="40" height="40"/></a>
 <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" alt="vscode" width="40" height="40"/></a>
+<br>
+<a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/prisma-orm.png" alt="prismaORM" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pressuredraper&show_icons=true&locale=en&layout=compact" alt="pressuredraper" /></p>

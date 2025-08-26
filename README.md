@@ -18,13 +18,13 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - 🌱 I’m currently learning:
-  - <img width="auto" height="40" src="https://static-00.iconduck.com/assets.00/socket-io-icon-512x511-xjp7kzx6.png" alt="socket.io" /> **Socket.io**
+  - <img width="auto" height="30" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="socket.io" /> **php**
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
 <h3 align="left">🏆 Github Trophies:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pressuredraper" alt="pressuredraper" /></a> </p>
+![](https://github-trophies.vercel.app/?username=PressureDraper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <h3 align="left">:shipit: Languages and Tools:</h3>
 <p align="left"> 
@@ -65,11 +65,12 @@
 <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" alt="vscode" width="40" height="40"/></a>
 <br>
 <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/prisma-orm.png" alt="prismaORM" width="40" height="40"/></a>
+<a href="https://socket.io/" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="socket.io" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pressuredraper&show_icons=true&locale=en&layout=compact" alt="pressuredraper" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pressuredraper&show_icons=true&locale=en" alt="pressuredraper" /></p>
+![](https://github-readme-stats.vercel.app/api?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 <h3 align="left">:coffee: Connect with me:
 <p align="left">

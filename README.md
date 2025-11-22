@@ -18,7 +18,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - 🌱 I’m currently learning:
-  - <img width="auto" height="30" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="socket.io" /> **php**
+  - <img width="auto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react_native" /> **React Native**
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 

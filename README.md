@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi! I'm Omar Sahib <img align="center" height="50" width="auto" src="https://borjagilra.com/wp-content/uploads/2022/09/giphy-1.gif" alt="wave"/></h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pressuredraper&label=Profile%20views&color=0e75b6&style=flat" alt="pressuredraper" /> </p>
-<h3 align="center"><img align="center" height="30" width="40" src="https://emojis.wiki/emoji-pics/apple/mexico-apple.png" alt="mx"/> 25-year-old Computer Science graduate from Xalapa, Veracruz <img align="center" height="30" width="40" src="https://emojis.wiki/emoji-pics/apple/mexico-apple.png" alt="mx"/></h3>
+<h3 align="center"><img align="center" height="30" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/051/966/160/small/mexico-country-round-flag-free-png.png" alt="mx"/> 25-year-old Computer Science graduate from Xalapa, Veracruz <img align="center" height="30" width="40" src="https://static.vecteezy.com/system/resources/thumbnails/051/966/160/small/mexico-country-round-flag-free-png.png" alt="mx"/></h3>
 
 <p align="center">
   <img width="auto" height="300" src="https://i.pinimg.com/originals/e4/8a/ea/e48aeaac9f9688addda36cb41539f35a.gif" alt="laingif" />
@@ -50,10 +50,10 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" alt="sqlite" width="40" height="40"/> </a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://freesvg.org/img/SQLite_icon.png" alt="sqlite" width="40" height="40"/> </a>
 <br>
 <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/xampp-logo.png" alt="xampp" width="40" height="40"/></a> 
-<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/1024px-WampServer-logo.svg.png" alt="wamp" width="40" height="40"/></a>
+<a href="https://www.wampserver.com/en/" target="_blank" rel="noreferrer"> <img src="https://freesvg.org/img/wamp.png" alt="wamp" width="40" height="40"/></a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://www.devopsschool.com/trainer/assets/images/sonarqube-logo.png" alt="sonarqube" width="40" height="40"/></a>
 <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="react" width="40" height="40"/></a>
@@ -66,6 +66,7 @@
 <br>
 <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/prisma-orm.png" alt="prismaORM" width="40" height="40"/></a>
 <a href="https://socket.io/" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="socket.io" /></a>
+<a href="https://developer.android.com" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Androidstudio.png" alt="android studio" /></a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

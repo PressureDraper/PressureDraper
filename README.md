@@ -77,6 +77,48 @@
 <a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://embed.zenn.studio/api/optimize-og-image/16a1f36c4a0a5336bc53/https%3A%2F%2Fbiomejs.gallerycdn.vsassets.io%2Fextensions%2Fbiomejs%2Fbiome%2F2025.11.271431%2F1764253895617%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Biome" /></a>
 </p>
 
+<h3 align="left">📊 Github Stats:</h3>
+
+<table width="100%"> 
+  <tr> 
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3> 
+      <p align="center"> 
+        <a href="https://github.com/PressureDraper">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=PressureDraper&count_private=true&show_icons=true&theme=panda&bg_color=0,000000,182746&title_color=43a9d9&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" /> 
+        </a> 
+      </p> 
+    </td> 
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3> 
+      <p align="center"> <a href="https://github.com/PressureDraper"> 
+        <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=PressureDraper&theme=panda&background=0,000000,182746&fire=43a9d9&ring=43a9d9&sideNums=ffffff&sideLabels=ffffff&dates=43a9d9&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
+      </p> 
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center"> <a href="https://github.com/PressureDraper/pressuredraper-website">
+        <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=PressureDraper&repo=pressuredraper-website&theme=panda&show_owner=true&bg_color=0,000000,182746&title_color=43a9d9&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+      </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center"> <a href="https://github.com/PressureDraper">
+        <img align="center" src="https://github-contributor-stats.vercel.app/api?username=PressureDraper&limit=2&theme=panda&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,182746&title_color=43a9d9&text_color=ffffff" alt="Top Repo" /> </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="left">📈 Contribution Graph:</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PressureDraper&bg_color=0f1a2e&&color=ffffff&line=43a9d9&point=ffffff&area=false&hide_border=false" border-radius="15">
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-readme-stats.vercel.app/api?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>

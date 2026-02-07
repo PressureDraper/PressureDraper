@@ -101,7 +101,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center"> <a href="https://github.com/PressureDraper/pressuredraper-website">
-        <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=PressureDraper&repo=pressuredraper-website&theme=panda&show_owner=true&bg_color=0,000000,182746&title_color=43a9d9&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=PressureDraper&repo=pressuredraper-website&theme=panda&show_owner=true&bg_color=0,000000,182746&title_color=43a9d9&text_color=ffffff&cache_seconds=1800" alt="Website" />
       </a>
       </p>
     </td>
@@ -126,9 +126,7 @@
 <a href="https://instagram.com/pressure_draper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pressure_draper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZZTPCTizA-RHnN4lQsc01w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hideline" height="30" width="40" /></a>
 </p>
-  
 📫 rojeru.san1983@gmail.com
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43a9d9,100:21335B&height=65&section=footer"/>
 </p>

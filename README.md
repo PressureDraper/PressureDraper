@@ -26,11 +26,11 @@
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
-<h3 align="left">🏆 Github Trophies:</h3>
+<h2 align="left">🏆 Github Trophies:</h2>
 
-![](https://github-trophies.vercel.app/?username=PressureDraper&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=PressureDraper&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">:shipit: Languages and Tools:</h3>
+<h2 align="left">:shipit: Languages and Tools:</h2>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/win10/512/FFFFFF/amazon-web-services.png" alt="aws" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
@@ -77,7 +77,7 @@
 <a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://embed.zenn.studio/api/optimize-og-image/16a1f36c4a0a5336bc53/https%3A%2F%2Fbiomejs.gallerycdn.vsassets.io%2Fextensions%2Fbiomejs%2Fbiome%2F2025.11.271431%2F1764253895617%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Biome" /></a>
 </p>
 
-<h3 align="left">📊 Github Stats:</h3>
+<h2 align="left">📊 Github Stats:</h2>
 
 <table width="100%"> 
   <tr> 
@@ -119,13 +119,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PressureDraper&bg_color=0f1a2e&&color=ffffff&line=43a9d9&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-
-<h3 align="left">:coffee: Connect with me:
+<h2 align="left">:coffee: Connect with me:</h2>
 <p align="left">
-<br>
 <a href="https://twitter.com/pressure_draper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pressure_draper" height="30" width="40" /></a>
 <a href="https://www.facebook.com/PressureDraper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar sh hernández" height="30" width="40" /></a>
 <a href="https://instagram.com/pressure_draper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pressure_draper" height="30" width="40" /></a>
@@ -135,5 +130,5 @@
 📫 rojeru.san1983@gmail.com
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43a9d9,100:21335B&height=65&section=footer"/>
 </p>

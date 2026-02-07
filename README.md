@@ -15,7 +15,11 @@
 - 📁 Working in some projects to perform a portfolio
 - 🎶 I love cats, videogames, nature, taking some cat naps, listening to and creating my <a href="https://www.youtube.com/@hideline_music" target="_blank" rel="noreferrer">own music</a> as a hobby
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning:
   - <img width="auto" height="30" src="https://img.icons8.com/color/512/redis.png" alt="Redis" /> **Redis Caching**
@@ -87,3 +91,7 @@
 </p>
   
 📫 rojeru.san1983@gmail.com
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>

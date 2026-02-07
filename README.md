@@ -18,7 +18,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zeo3eo87hzz2y2x9y0atrkix4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 - 🌱 I’m currently learning:
-  - <img width="auto" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react_native" /> **React Native**
+  - <img width="auto" height="30" src="https://img.icons8.com/color/512/redis.png" alt="Redis" /> **Redis Caching**
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
@@ -59,7 +59,7 @@
 <a href="https://es.react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" alt="react" width="40" height="40"/></a>
 <br>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://i0.wp.com/everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png?fit=2800%2C2530&ssl=1" alt="vscode" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui material" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="vscode" width="40" height="40"/></a>
 <a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" alt="vscode" width="40" height="40"/></a>
@@ -67,6 +67,10 @@
 <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/prisma-orm.png" alt="prismaORM" width="40" height="40"/></a>
 <a href="https://socket.io/" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="socket.io" /></a>
 <a href="https://developer.android.com" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/68/Androidstudio.png" alt="android studio" /></a>
+<a href="https://eslint.org" rel="noreferrer"><img width="40" height="40" src="https://es.eslint.org/icon-512.png" alt="ESLint" /></a>
+<a href="https://prettier.io" rel="noreferrer"><img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" alt="Prettier" /></a>
+<br>
+<a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://embed.zenn.studio/api/optimize-og-image/16a1f36c4a0a5336bc53/https%3A%2F%2Fbiomejs.gallerycdn.vsassets.io%2Fextensions%2Fbiomejs%2Fbiome%2F2025.11.271431%2F1764253895617%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Biome" /></a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PressureDraper&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

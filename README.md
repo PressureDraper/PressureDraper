@@ -22,7 +22,6 @@
 </p>
 
 - 🌱 I’m currently learning:
-  - <img width="auto" height="30" src="https://img.icons8.com/color/512/redis.png" alt="Redis" /> **Redis Caching**
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
@@ -66,7 +65,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/250px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40"/></a>
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://mui.com/static/logo.png" alt="mui material" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519" alt="vscode" width="40" height="40"/></a>
-<a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v870e399c64f7c43c99a3043db4b3a74327bb93d0914e84a0c3dba90bbfd67625/firebase/images/touchicon-180.png" alt="vscode" width="40" height="40"/></a>
+<a href="https://firebase.google.com/docs/firestore" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/v0aaaacbf0fa1137eef038c28cbf068bb36f5d76d975ff92c1063f1fc9a424af3/firebase/images/touchicon-180.png" alt="firebase" width="40" height="40"/></a>
 <br>
 <a href="https://www.prisma.io" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluent/512/prisma-orm.png" alt="prismaORM" width="40" height="40"/></a>
 <a href="https://socket.io/" rel="noreferrer"><img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Socket-io.svg/1200px-Socket-io.svg.png" alt="socket.io" /></a>
@@ -75,6 +74,7 @@
 <a href="https://prettier.io" rel="noreferrer"><img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" alt="Prettier" /></a>
 <br>
 <a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://embed.zenn.studio/api/optimize-og-image/16a1f36c4a0a5336bc53/https%3A%2F%2Fbiomejs.gallerycdn.vsassets.io%2Fextensions%2Fbiomejs%2Fbiome%2F2025.11.271431%2F1764253895617%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Biome" /></a>
+<a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/color/512/redis.png" alt="Redis" /></a>
 </p>
 
 <h2 align="left">📊 Github Stats:</h2>

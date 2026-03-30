@@ -74,7 +74,7 @@
 <a href="https://prettier.io" rel="noreferrer"><img width="40" height="40" src="https://cdn.freebiesupply.com/logos/large/2x/prettier-2-logo-png-transparent.png" alt="Prettier" /></a>
 <br>
 <a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://embed.zenn.studio/api/optimize-og-image/16a1f36c4a0a5336bc53/https%3A%2F%2Fbiomejs.gallerycdn.vsassets.io%2Fextensions%2Fbiomejs%2Fbiome%2F2025.11.271431%2F1764253895617%2FMicrosoft.VisualStudio.Services.Icons.Default" alt="Biome" /></a>
-<a href="https://biomejs.dev" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/color/512/redis.png" alt="Redis" /></a>
+<a href="https://redis.io/" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/color/512/redis.png" alt="Redis" /></a>
 </p>
 
 <h2 align="left">📊 Github Stats:</h2>

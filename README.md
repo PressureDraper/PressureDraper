@@ -22,6 +22,7 @@
 </p>
 
 - 🌱 I’m currently learning:
+  - <img width="auto" height="30" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next JS" /> **Next.js**
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 

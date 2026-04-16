@@ -115,7 +115,7 @@
   </a>
 </div>
 
-<h3 align='left'>📫 rojeru.san1983@gmail.com</h3>
+<h3 align='center'>📫 rojeru.san1983@gmail.com</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43a9d9,100:21335B&height=65&section=footer"/>
 </p>

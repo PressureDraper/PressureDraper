@@ -26,13 +26,13 @@
   - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
-<h2 align="center">🏆 Github Trophies:</h2>
+<h2 align="left">🏆 Github Trophies:</h2>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=PressureDraper&theme=algolia&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-<h2 align="center">:shipit: Languages and Tools:</h2>
+<h2 align="left">:shipit: Languages and Tools:</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -53,7 +53,7 @@
   <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/></a>
 </p>
 
-<h2 align="center">📊 Github Stats:</h2>
+<h2 align="left">📊 Github Stats:</h2>
 
 <table width="100%"> 
   <tr> 
@@ -90,7 +90,7 @@
   </tr>
 </table>
 
-<h2 align="center">📈 Contribution Graph:</h2>
+<h2 align="left">📈 Contribution Graph:</h2>
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=PressureDraper&bg_color=0f1a2e&&color=ffffff&line=43a9d9&point=ffffff&area=false&hide_border=false" border-radius="15">
 </div>
@@ -115,7 +115,7 @@
   </a>
 </div>
 
-<h3 align='center'>📫 rojeru.san1983@gmail.com</h3>
+<h3 align='left'>📫 rojeru.san1983@gmail.com</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:43a9d9,100:21335B&height=65&section=footer"/>
 </p>

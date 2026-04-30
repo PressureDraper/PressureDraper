@@ -76,7 +76,7 @@
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center"> <a href="https://github.com/PressureDraper/pressuredraper-website">
+      <p align="center"> <a href="https://github.com/PressureDraper/pressuredraper-web">
         <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=PressureDraper&repo=pressuredraper-website&theme=panda&show_owner=true&bg_color=0,000000,182746&title_color=43a9d9&text_color=ffffff&cache_seconds=1800" alt="Website" />
       </a>
       </p>

@@ -23,7 +23,9 @@
 
 - 🌱 I’m currently learning:
   - <img width="auto" height="30" src="https://www.rlogical.com/wp-content/uploads/2023/03/Rlogical-Blog-Images-thumbnail.webp" alt="Next JS" /> **Next.js**
-  - <img width="auto" height="30" src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" /> **React Testing Library**
+  - <img width="auto" height="30" src="https://iphoneros.com/wp-content/uploads/2024/10/kjhkjhadfghjkjkhdfg.png" alt="LLM" /> **LLM Integrations**
+  - <img width="auto" height="30" src="https://cdn.prod.website-files.com/646bfb73a801cbed07fc53da/646e5866249c646cff4e4d7e_logo-transparent-png%20(3).png" alt="LLM" /> **RAG**
+  - <img width="auto" height="30" src="https://www.quantamagazine.org/wp-content/uploads/2024/09/EmbeddingsExplainer-crSamuelVelasco_KristinaArmitage-Lede-copy.png" alt="Embeddings" /> **Embeddings**
 - :trollface: Fun fact: **I swear i've never copied -> pasted code from stackoverflow 👀**
 
 <h2 align="left">🏆 Github Trophies:</h2>

@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,cpp,css,django,git,html,js,jquery,linux,mysql,nodejs,postgres,py,sqlite,jest,react,redux,ts,vscode,firebase,prisma,redis&perline=10&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,bash,bootstrap,css,django,git,html,js,jquery,linux,mysql,nodejs,postgres,py,sqlite,jest,react,redux,ts,vscode,firebase,prisma,redis&perline=10&theme=dark" />
   </a>
 </p>
 

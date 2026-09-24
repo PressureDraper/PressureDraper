@@ -93,7 +93,7 @@
 
 <h2 align="left">📈 Contribution Graph:</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=PressureDraper&bg_color=0f1a2e&&color=ffffff&line=43a9d9&point=ffffff&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graphkayan.vercel.app/graph?username=PressureDraper&bg_color=0f1a2e&color=ffffff&line=43a9d9&point=ffffff&area_color=61778f&area=true&hide_border=true" border-radius="15">
 </div>
 
 <h2 align="left">:coffee: Connect with me:</h2>
